@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+
+h3 {
+  color: #06b6d4;
+  text-transform: uppercase;
+}
+
+.cardForm {
+  width: 350px;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px 40px;
+}
+
+.contenedorForm {
+  display: grid;
+  justify-content: center;
+}

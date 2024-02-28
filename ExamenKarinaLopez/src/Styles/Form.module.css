@@ -1,0 +1,42 @@
+.inputForm {
+  height: 26px;
+  border-color: currentColor;
+  border-radius: 3px;
+}
+
+.labelForm {
+  font-weight: 600;
+  margin-right: 5px;
+  display: block;
+  margin-top: 15px;
+  text-align: left;
+}
+
+.direction,
+.materia {
+  width: 345px;
+}
+
+.materia {
+  height: 30px;
+}
+
+.inputNombre {
+  margin-right: 10px;
+}
+
+.boton {
+  margin: 25px 10px 10px;
+  background-color: #06b6d4;
+  color: white;
+}
+
+.errorMensaje {
+  color: red;
+  margin-top: 12px;
+}
+
+span {
+  color: #06b6d4;
+  text-transform: uppercase;
+}
